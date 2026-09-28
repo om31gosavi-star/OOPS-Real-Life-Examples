@@ -230,15 +230,5 @@ These programs demonstrate how OOP concepts can be applied to practical systems 
 
 * 🌱 Smart Farming
 * 🎓 Student Attendance
-* 📦 Product Inventory
-* 🏠 Smart Home
-* 👨‍💼 Employee Payroll
-* 💳 Payment Gateway
-* 🚚 Vehicle Management
-* 🏦 Banking
-* 📐 Shape Calculations
-* 🔢 Complex Number Operations
-* ✅ Data Validation
-* 🎵 Media Player
-
+* 📦 Product Inventory , etc.
 ---
